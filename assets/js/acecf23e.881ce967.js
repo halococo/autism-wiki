@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkautism_wiki=globalThis.webpackChunkautism_wiki||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/autism-wiki/blog","blogTitle":"Blog","authorsListPath":"/autism-wiki/blog/authors"}')}}]);
