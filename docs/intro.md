@@ -15,6 +15,8 @@ This encyclopedia provides comprehensive information about Autism Spectrum Disor
 
 Autism is like a "cough." Just as a cough can be caused by various conditions—a cold, influenza, asthma, allergies—autism also has diverse underlying causes. In other words, autism is a **symptom**, not a disease itself.
 
+Therefore, approaches to intervention, management, and treatment must also be tailored to these diverse underlying causes. This requires systematic categorization.
+
 This site aims to categorize the causes of autism and continuously update the latest research papers and findings, providing information to a broad audience ranging from the general public to medical professionals.
 
 ## Disclaimer
