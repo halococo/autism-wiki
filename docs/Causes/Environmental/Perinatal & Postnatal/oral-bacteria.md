@@ -71,4 +71,4 @@ Mitchell (2025) highlighted methodological limitations in gut-ASD research, incl
 - Mitchell KJ (2025). Conceptual and methodological flaws undermine claims of a link between the gut microbiome and autism. *Neuron*.
 
 ### Hypothesis Paper
-- Kang B (2025). Ectopic Intestinal Colonization by Oral Bacteria as a Potential Upstream Mechanism in Autism Spectrum Disorder: A Hypothesis. *Zenodo*. [DOI](https://doi.org/10.5281/zenodo.14267167)
+- Kang B (2025). Ectopic Intestinal Colonization by Oral Bacteria as a Potential Upstream Mechanism in Autism Spectrum Disorder: A Hypothesis. *Zenodo*. [DOI](https://doi.org/10.5281/zenodo.17767167)
