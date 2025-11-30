@@ -23,6 +23,19 @@ Maternal antibiotics (especially intrapartum) → Altered maternal microbiota �
 
 Ectopic colonization by oral bacteria → Displacement of beneficial bacteria → Neuroactive metabolite production → Gut barrier dysfunction → Neuroinflammation → Potential contribution to ASD
 
+## Neuroactive Metabolites
+
+The key mechanism is not colonization itself, but the **metabolic byproducts** these bacteria may produce:
+
+| Bacteria | Potential Byproducts |
+|----------|---------------------|
+| *Clostridium tetani* | Tetanus neurotoxin (TeNT) |
+| *Clostridium* spp. | Propionic acid (excess) |
+| *Klebsiella* | TH1 inflammatory cytokines |
+| *Streptococcus* | Streptolysin, streptodornase |
+
+Additionally, displacement of beneficial bacteria (e.g., *Bifidobacterium*) may reduce **neuroprotective metabolites** like butyrate.
+
 ## Candidate Bacteria
 
 These genera have been identified in literature as potentially involved. Their inclusion does not imply confirmed causation:
@@ -44,6 +57,7 @@ These genera have been identified in literature as potentially involved. Their i
 | Intrapartum antibiotics reduce *Bifidobacterium* transfer | Dierikx et al., 2020 |
 | Altered oral microbiota in ASD children | Qiao et al., 2018 |
 | Oral-brain axis concept proposed | Kong et al., 2019 |
+| Propionic acid induces ASD-relevant behaviors in animal models | Various studies |
 
 ## Criticisms
 
